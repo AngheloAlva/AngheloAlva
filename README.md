@@ -1,10 +1,7 @@
 ### <div align="center">I'm Anghelo Alva, a web developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on my project [Scholanet](https://github.com/rishavanand/github-profilinator)  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🔭 I’m currently working as Freelancer
   
 
 <br/>  
