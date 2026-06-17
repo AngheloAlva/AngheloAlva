@@ -71,7 +71,7 @@
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| **OTC 360** | Operational-control ERP for an oil-pipeline company (work orders, maintenance plans, contractor portal) | Next.js · Prisma · PostgreSQL · Azure | [otc360.cl](https://otc360.cl) |
+| **OTC 360** | Operational-control ERP for an oil-pipeline company (work orders, maintenance plans, contractor portal) | Next.js · Prisma · PostgreSQL · Azure | _Private_ |
 | **Busanc** | Custom commercial & industrial ERP for a mining-supply company (end-to-end flow, RBAC, audit log) | Next.js 16 · NestJS · Drizzle · PostgreSQL | _Private_ |
 | **AIEP — Desafío PEI** | Real-time Kahoot-style platform for a live nationwide event (600–700 concurrent users, no WebSockets) | Next.js · Prisma · PostgreSQL | _Private_ |
 | **Turismo Chile Tours** | Multilingual corporate site (ES/EN/FR/PT-BR) for a tour operator | Next.js · next-intl · Resend | [turismochiletours.com](https://turismochiletours.com) |
